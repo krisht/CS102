@@ -1,0 +1,20 @@
+Madam, I'm Adam.
+PALINDROME
+Madam, I'm Bob.
+NOT A PALINDROME
+Bob
+PALINDROME
+12 noon
+PALINDROME
+A man, a plan, a canal: Panama!
+PALINDROME
+Hello World!
+NOT A PALINDROME
+Able was I, ere I saw Elba.
+PALINDROME
+We? I vote cinema. Me! Nice to view.
+PALINDROME
+Straps laminate pet animals' parts.
+PALINDROME
+ABCDBA
+NOT A PALINDROME

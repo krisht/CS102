@@ -1,0 +1,15 @@
+Doe, Carol 94.8 A
+Wilson, Charlie 92.9 A
+Jones, Jennifer 90.7 A
+Johnson, Sally 90.3 A
+Bobbins, Bill 90.1 A
+Doe, John 86.8 B
+White, Mary 85.6 B
+Smith, William 66.4 D
+Doe, Harvey 57.9 F
+
+Count of A: 5
+Count of B: 2
+Count of C: 0
+Count of D: 1
+Count of F: 1
